@@ -22,7 +22,7 @@
                 
             </div>
         </form>
-        <form id="editar-formulario">
+        <form id="editar-formulario" class="esconder">
             <p>Edite a sua tarefa: </p>
             <div class="todo-editar">
                 <input type="text" id="editar-input">
@@ -42,6 +42,7 @@
                     <i class="fa-solid fa-delete-left"></i>
                 </button>
             </form>
+            </div>
             <div id="filtro">
                 <h4>Filtrar:</h4>
                 <select id="selecionar-filtro">
@@ -50,10 +51,10 @@
                     <option value="todo">A fazer</option>
                 </select>
             </div>
-        </div>
+        
     </div>
     <div id="todo-lista">
-        <div class="todo">
+        <div class="todo feito">
             <h3>Andar de bike</h3>
             <button class="finalizar-todo">
                <i class="fa-solid fa fa-check"></i>

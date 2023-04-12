@@ -46,6 +46,7 @@ button i {
 input,
 select {
     padding: .25rem 0.5rem;
+    width: 40rem;
 }
 
 .esconder {
@@ -168,3 +169,13 @@ select {
     text-decoration: line-through;
     font-style: italic;
 }
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+    body {
+    background-size: auto;
+}
+    
+  }
+  

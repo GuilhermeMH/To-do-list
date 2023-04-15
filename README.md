@@ -13,9 +13,9 @@ Com esta lista de tarefas, você pode adicionar uma tarefa, marcá-la como concl
 Para usar esta lista de tarefas, basta adicionar uma tarefa no campo de texto fornecido e clicar no botão "Adicionar". A tarefa será adicionada à lista e você poderá marcar como concluída ou não concluída clicando no checkbox ao lado da tarefa. Para remover a tarefa da lista, basta clicar no botão "Remover" ao lado da tarefa.
 
 ### Ferramentas
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 ### Conclusão
 Este projeto é uma ferramenta útil para gerenciar sua lista de tarefas diárias ou semanais. Com sua interface amigável e recursos de marcação e remoção de tarefas, ele pode ser facilmente personalizado para atender às suas necessidades específicas.
 

@@ -1,4 +1,5 @@
 # Todo List
+<img src="https://media.licdn.com/dms/image/D4D22AQF_cfgV5uRZFg/feedshare-shrink_800/0/1681342240111?e=1684368000&v=beta&t=yu9lv37qGS7bxnYXyCnbgQv7H7kuEYjYirgLZBPMMGE" width="1000px">
 Este é um projeto de lista de tarefas criado usando HTML, CSS e JavaScript. Com esta aplicação web, você pode adicionar, remover e marcar tarefas como concluídas ou não concluídas. É útil para gerenciar sua lista de tarefas diárias ou semanais.
 
 ### Visão geral

@@ -24,3 +24,5 @@ Este projeto é uma ferramenta útil para gerenciar sua lista de tarefas diária
 - Website - <a href="https://github.com/guilhermemh" target="_blank">Guilherme Moura</a>
 - LinkedIn - <a href="https://www.linkedin.com/in/guilhermemhenrique/" target="_blank">Guilherme Moura</a>
 - Deploy - <a href="https://to-do-list-nine-black.vercel.app/" target="_blank">Todo</a>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
